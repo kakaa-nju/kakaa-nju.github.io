@@ -7,20 +7,6 @@ tags: [helloworld]
 
 
 ## Hello, kakaa's blog!
-### 标题测试
-#### 标题测试
 
-**插入代码段**
-
-```
-import gpt
-def HelloWorld():
-    print("hello world")
-```
-
-```python
-import gpt
-def HelloWorld():
-    print("hello world")
-```
+配置好了头像和 icon，并且搭建了本地测试环境。
 
