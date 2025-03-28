@@ -1,0 +1,1 @@
+hello, kakaa's blog!
