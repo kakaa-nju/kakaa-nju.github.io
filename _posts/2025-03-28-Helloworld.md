@@ -1,8 +1,8 @@
 ---
 title: Hello World
 date: 2025-03-28 16:03:00 +0800
-categories: [Blog, HelloWorld]
-tags: [helloworld]
+categories: [Blog, 技术]
+tags: [helloworld, 技术]
 ---
 
 
