@@ -11,7 +11,7 @@ tags: [技术, 网络]
 
 笔者的 Openclash 运行在一台 RK3568 的软路由上，系统是 FriendlyWrt 24.10
 （硬件厂商提供的对应驱动的改版Openwrt），4G内存，16G eMMc 硬盘。
-Openclash 版本是 0.46.079，Meta内核版本是 5.15.112。
+Openclash 版本是 0.46.079，Meta内核版本是 alpha-g8bc6f77。
 
 笔者需要使用 Openclash的场景有如下三个：
 - 在工位的内网下
